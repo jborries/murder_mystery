@@ -265,7 +265,7 @@ a:focus {
   .download-section {
     background-color: #333333;
     background-image: url(../img/murder60.jpg;);
-    background-size: 100%;
+
     /*../img/murder34.jpg;*/
   }
 }
@@ -273,7 +273,7 @@ a:focus {
   .download-section {
     background-color: #666666;
     background-image: url(../img/murder60.jpg);
-    background-size: 100%;
+    
     /*../img/murder34.jpg*/
   }
 }
